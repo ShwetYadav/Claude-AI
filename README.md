@@ -4,10 +4,6 @@ A fully functional, polished, and self-hosted web interface for Anthropic's Clau
 
 ---
 
-### ✨ Live Demo
-
-
-![Demo GIF of the Claude UI in action](demo.gif)
 
 ---
 
